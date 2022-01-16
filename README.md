@@ -18,4 +18,12 @@ After reading the paragraph in the **resources** section of the class room, I ca
 > Controlling complexity is the essence of computer programming. — Brian Kernighan
 5. >> The desirability of any change is directly proportional to the value of the change and inversely proportional to the effort involved in making the change. – Code Simplicity
 
-You can read the full article by visiting the following *[link](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)*
+You can read the full article by visiting the following *[link](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/ "Learn the fundamentals of a good developer mindset in 15 minutes")*, I really advise you to read it.
+
+________
+
+Thanks for your time,
+
+| Name        | Course           | Instructor  |
+| ----------- |------------------| ------------|
+| Jalal Hasan | JS Preperation   | Boshra Jaber|
